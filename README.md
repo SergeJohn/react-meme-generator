@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
+# Project Description
 ![Here's a description of your meme generator app using React:
 
 Welcome to our meme generator app! With this app, you can easily create your own memes by choosing a template image and adding your own text. We've included a wide selection of popular meme templates to choose from, or you can upload your own image to create a unique meme.
