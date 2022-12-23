@@ -13,3 +13,4 @@ To get started, simply select a template image and add your own text to create y
 Thank you for using our meme generator app! We hope you have fun creating memes and sharing them with your friends.
 
 ![image](https://user-images.githubusercontent.com/109452068/209363428-9fc54c00-3c6f-4074-bfe6-0d0818be02bd.png)
+![image](https://user-images.githubusercontent.com/109452068/209373217-035f357c-3726-4b02-80b7-3076d392de09.png)
