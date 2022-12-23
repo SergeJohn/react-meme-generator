@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Meme-generator
 
-Welcome to our meme generator app! With this app, you can easily create your own memes by choosing a template image and adding your own text. We've included a wide selection of popular meme templates to choose from, or you can upload your own image to create a unique meme.
+Welcome to our meme generator app! With this app, you can easily create your own memes by choosing a template image and adding your own text.
 
 Our app is built using React, a popular JavaScript library for building user interfaces. This allows us to create a fast and responsive app that's easy to use.
 
-To get started, simply select a template image and add your own text to create your own personalized meme. You can save your meme to your device or share it with your friends on social media.
+To get started, simply select a template image and add your own text to create your own personalized meme.You can choose many available picture as you want because the API provide a large amount of data to be queried from it's database. You can screenshot the meme you created adn share it to your friends.
 
 Thank you for using our meme generator app! We hope you have fun creating memes and sharing them with your friends.
 
