@@ -11,7 +11,7 @@ Our app is built using React, a popular JavaScript library for building user int
 
 To get started, simply select a template image and add your own text to create your own personalized meme. You can save your meme to your device or share it with your friends on social media.
 
-Thank you for using our meme generator app! We hope you have fun creating memes and sharing them with your friends."](meme-generator-app1.png)
+Thank you for using our meme generator app! We hope you have fun creating memes and sharing them with your friends."](https://github.com/SergeJohn/react-meme-generator/blob/master/meme-generator-app1.png)
 
 ## Available Scripts
 
