@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: rgb(86, 56, 12);
+}
+
+.container {
+  min-width: 440px;
+  width: 600px;
+  height: 80vh;
+  margin: 50px auto;
+  border: 1px solid brown;
+  background-color: brown;
+  box-shadow: 0 0.5px 0.5px 0.5px rgb(184, 178, 171);
+  border-radius: 5px;
+}
+.inputs {
+  margin-top: 10px;
+  display: grid;
+  row-gap: 5px;
+}
+.inputs input {
+  height: 50px;
+  border: none;
+  background-color: rgb(156, 155, 154);
+  border-radius: 5px;
+  margin: 0 5px;
+  text-indent: 10px;
+}
+#btn {
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+#btn:hover {
+  background-color: bisque;
+}
+input:hover {
+  box-shadow: 1px 1px 1px 1px rgb(210, 198, 198);
+}
+.image {
+  margin: 20px auto;
+  position: relative;
+  border: 1px solid black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:black;
+  font-size: 1.25rem;
+}
+.image img{
+  width: 100%;
+  height: 50vh;
+}
+
+.h2-1 {
+  position: absolute;
+  top: 10px;
+  left: 40px;
+  text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 15px 0;
+    padding: 0 5px;
+    font-family: impact, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0 2px 0 #000,
+        2px 0 0 #000,
+        0 -2px 0 #000,
+        -2px 0 0 #000,
+        2px 2px 5px #000;
+}
+.h2-2 {
+  position: absolute;
+  bottom: 30px;
+  left: 40px;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: impact, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow:
+      2px 2px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+      0 2px 0 #000,
+      2px 0 0 #000,
+      0 -2px 0 #000,
+      -2px 0 0 #000,
+      2px 2px 5px #000;
+}
